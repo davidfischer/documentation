@@ -9,7 +9,7 @@ pages:
    - 'Bootstrap Conventions': '/mvvm/bootstrap-conventions.md'
    - 'Runtime Conventions': '/mvvm/runtime-conventions.md'
    - 'Conventions override': '/mvvm/conventions-override.md'
-- 'Commands and DelegateCommand': '/mvvm/delegate-command.md'
+   - 'Commands and DelegateCommand': '/mvvm/delegate-command.md'
    - 'IViewResolver': '/mvvm/iview-resolver.md'
    - 'Default view behaviors': '/mvvm/default-view-behaviors.md'
    - Intercepting 'view life cycle events': '/mvvm/view-life-cycle-events.md':
