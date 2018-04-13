@@ -1,2 +1,25 @@
 site_name: 'Radical Documentation'
 docs_dir: 'docs'
+pages:
+- Home: 'index.md'
+- Presentation:
+   - 'AbstractViewModel': '/mvvm/abstract-view-model.md'
+- Conventions:
+   - 'Introduction': '/mvvm/conventions.md'
+   - 'Bootstrap Conventions': '/mvvm/bootstrap-conventions.md'
+   - 'Runtime Conventions': '/mvvm/runtime-conventions.md'
+   - 'Conventions override': '/mvvm/conventions-override.md'
+- 'Commands and DelegateCommand': '/mvvm/delegate-command.md'
+   - 'IViewResolver': '/mvvm/iview-resolver.md'
+   - 'Default view behaviors': '/mvvm/default-view-behaviors.md'
+   - Intercepting 'view life cycle events': '/mvvm/view-life-cycle-events.md':
+   - In ViewModels: 'Callback expectations': '/mvvm/callback-expectations.md'
+   - Using broker messages: 'notify messages': '/mvvm/notify-messages.md'
+   - 'Message broker MVVM built-in messages': '/mvvm/built-in-messages.md'
+   - 'Application boot process demystified': '/mvvm/boot-process-demystified.md'
+   - 'Application shutdown': '/mvvm/application-shutdown.md'
+   - 'Singleton applications': '/mvvm/singleton-applications.md'
+   - 'AbstractMementoViewModel': '/mvvm/abstract-memento-view-model.md'
+   - 'Simple ViewModel graphs': '/mvvm/memento-change-tracking-simple-view-model.md'
+   - 'Collections and complex ViewModel graphs': '/mvvm/memento-change-tracking-collection-and-complex-view-model.md.md'
+   - 'Validation and Validation Services': '/mvvm/validation-validationservice.md'
