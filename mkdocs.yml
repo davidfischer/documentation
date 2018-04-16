@@ -66,7 +66,7 @@ pages:
   - 'Busy status manager': '/behaviors/busy-status-manager.md'
   - 'Command TextBox behavior': '/behaviors/textbox-command.md'
   - 'Auto select TextBox behavior': '/behaviors/textbox-auto-select.md'
-  - 'DisableUndoManager TextBox behavior': '/behaviors/textbox-disable-undo-manager.md' (.Net 3.5 only'
+  - 'DisableUndoManager TextBox behavior (.Net 3.5 only)': '/behaviors/textbox-disable-undo-manager.md'
 - 'Markup Extensions':
   - 'Editor binding': '/markup/editor-binding.md'
   - 'Auto Command binding': '/markup/auto-command-binding.md'
